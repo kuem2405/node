@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kuem2405/node#readme",
   "dependencies": {
     "connect": "^3.5.1",
+    "express": "^4.14.1",
     "serve-static": "^1.11.2"
   }
 }
