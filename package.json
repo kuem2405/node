@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-jream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuem2405/node.git"
+  },
+  "author": "KhaNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuem2405/node/issues"
+  },
+  "homepage": "https://github.com/kuem2405/node#readme",
+  "dependencies": {
+    "connect": "^3.5.1",
+    "serve-static": "^1.11.2"
+  }
+}
